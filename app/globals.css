@@ -1,0 +1,13 @@
+/* Global styles with parallax animations */
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
+
+.product-showcase {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+/* Additional styles */
